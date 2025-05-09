@@ -35,14 +35,14 @@ The Expense Management System is a full-stack web application built using the **
 ### Prerequisites
 
 * **Node.js** (v14 or higher)
-* **MongoDB** (either locally or using a cloud service like MongoDB Atlas)
+* **MongoDB** 
 
 ### Steps to Run the Application
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/expense-management-app.git
+   git clone (https://github.com/ANKITKUMAR-dev25/EXPENSE-MANAGEMENT.git)
    cd expense-management-app
    ```
 
